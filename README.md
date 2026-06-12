@@ -216,7 +216,7 @@ npm run dev
 ✔ Full-stack web application
 
 ---
-# Members
+# Member
 
 - Raghavi S
 
