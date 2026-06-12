@@ -1,0 +1,9 @@
+| Method | Endpoint       | Description                 |
+| ------ | -------------- | --------------------------- |
+| GET    | `/`            | Health check                |
+| GET    | `/dashboard`   | Dashboard statistics        |
+| GET    | `/items/lost`  | Fetch lost items            |
+| GET    | `/items/found` | Fetch found items           |
+| POST   | `/items`       | Report a lost or found item |
+| PUT    | `/claim/:id`   | Mark an item as claimed     |
+| DELETE | `/items/:id`   | Delete an item              |
